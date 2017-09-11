@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>圆通</item>
+        <item>韵达 </item>
+        <item>申通</item>
+        <item>中通</item>
+        <item>顺丰</item>
+        <item>EMS</item>
+        <item>天天</item>
+        <item>汇通</item>
+        <item>其他（请在备注中填写）</item>
+    </string-array>
+</resources>
